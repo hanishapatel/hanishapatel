@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👩‍💻 Hanisha Patel
 
-<!--
-**hanishapatel/hanishapatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Java | ReactJS | SQL Server | Spring Boot**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **About Me**  
+Hello! I'm Hanisha Patel, a passionate and dedicated software developer with a strong background in building scalable and dynamic web applications. With a Master's in Computer Science from the University of Houston – Clear Lake and experience in full-stack development, I enjoy creating solutions that make a difference.
+
+---
+
+💻 **Tech Stack**  
+- **Languages:** Java, JavaScript, Python, C++, SQL  
+- **Frameworks & Libraries:** Spring Boot, ReactJS, Node.js  
+- **Database:** SQL Server, MongoDB  
+- **Tools & Platforms:** Git, Docker, Jenkins  
+- **Others:** Agile Development, REST APIs, WebRTC  
+
+---
+
+📫 **Contact Me**  
+- **Email:** hanishapatel2899@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/hanisha-patel/
+
+---
+
+✨ **Let's Collaborate!**  
+I love working on exciting projects and solving real-world problems. Feel free to connect with me or explore my repositories!
