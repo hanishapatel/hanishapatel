@@ -10,11 +10,11 @@ Hello! I'm Hanisha Patel, a passionate and dedicated software developer with a s
 ---
 
 💻 **Tech Stack**  
-- **Languages:** Java, JavaScript, Python, C++, SQL  
-- **Frameworks & Libraries:** Spring Boot, ReactJS, Node.js  
-- **Database:** SQL Server, MongoDB  
-- **Tools & Platforms:** Git, Docker, Jenkins  
-- **Others:** Agile Development, REST APIs, WebRTC  
+- **Languages:** Java, JavaScript, Python, C#, PHP
+- **Web Development:** HTML, CSS, JavaScript, ASP.NET, REST API
+- **Frameworks & Libraries:** Spring Boot, ReactJS, Node.js , Bootstrap, Tailwind CSS, Material UI, Flask 
+- **Database/Server:** SQL Server, MongoDB, Oracle, Firebase, MySQL  
+- **Tools & Platforms:** XAMPP, Visual Studio, IntelliJ, WordPress, Git, GitHub, Postman, Swagger, WordPress    
 
 ---
 
