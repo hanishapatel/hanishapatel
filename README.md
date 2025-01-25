@@ -14,7 +14,7 @@ Hello! I'm Hanisha Patel, a passionate and dedicated software developer with a s
 - **Web Development:** HTML, CSS, JavaScript, ASP.NET, REST API
 - **Frameworks & Libraries:** Spring Boot, ReactJS, Node.js , Bootstrap, Tailwind CSS, Material UI, Flask 
 - **Database/Server:** SQL Server, MongoDB, Oracle, Firebase, MySQL  
-- **Tools & Platforms:** XAMPP, Visual Studio, IntelliJ, WordPress, Git, GitHub, Postman, Swagger, WordPress    
+- **Tools & Platforms:** XAMPP, Visual Studio, IntelliJ, WordPress, Git, GitHub, Postman, Swagger    
 
 ---
 
