@@ -1,6 +1,6 @@
 # 👩‍💻 Hanisha Patel
 
-**Full Stack Developer | Java | ReactJS | SQL Server | Spring Boot**
+**Full Stack Developer**
 
 ---
 
